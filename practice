@@ -3,6 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <title>Page Title</title>
+
+	<style type="text/css">
+      body {
+          background-color: #63004A;
+      }
+
+		h1 {
+			text-align: center;
+		}
+		p {
+			text-align: center;
+		}
+	</style>
+
 </head>
 <body> 
 	<h1><font color=FFFFFF>Stephanie Jacobs</h1>
