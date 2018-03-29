@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Page Title</title>
+</head>
+body {
+    background-color: #63004A;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+<center><h1><font color=FFFFFF>Stephanie Jacobs</h1>
+<subtext><font size=5> Art Blog </font></subtext>
+<p>This is my art stuff. </font color></p>
+<a href="https://imgur.com/T9bAH1A"><img src="https://i.imgur.com/T9bAH1A.jpg" title="source: imgur.com" height=270 width=200/></a>
+<p>
+<a href="https://imgur.com/ajBQdEW"><img src="https://i.imgur.com/ajBQdEW.jpg" title="source: imgur.com" height=270 width=150/></a>	 	<a href="https://imgur.com/YM6Z9Vu"><img src="https://i.imgur.com/YM6Z9Vu.jpg" title="source: imgur.com" height=270 width=200/></a></center></p>
+
+
+</body>
+</html>
